@@ -2,11 +2,10 @@
   "posts": [
     {
       "id": 1,
-      "title": "primeiro"
-    },
-    {
-      "id": 2,
-      "title": "segundo"
-    },
+      "title": "hello"
+    }
   ],
+  "profile": {
+    "name": "typicode"
+  }
 }
